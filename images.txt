@@ -1,1 +1,3 @@
-canal/canal-server:v1.1.5
+foxiswho/rocketmq:server
+foxiswho/rocketmq:broker
+styletang/rocketmq-console-ng
