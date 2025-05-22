@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.2.0
+djb2023/rucbase_lab:djb2024
